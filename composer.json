@@ -15,13 +15,13 @@
         "laravel/tinker": "^2.9",
         "nikic/php-parser": "^5.3",
         "laravel/octane": "^2.0",
-        "openai-php/client": "^0.10.0",
+        "openai-php/client": "^0.10.0@beta",
         "predis/predis": "2.0"
     },
     "require-dev": {
         "zircote/swagger-php": "^4.11",
         "fakerphp/faker": "^1.23",
-        "laravel/pail": "^1.2.2",
+        "laravel/pail": "^1.2.2@dev",
         "laravel/pint": "^1.13",
         "laravel/sail": "^1.41",
         "mockery/mockery": "^1.6",
@@ -82,6 +82,6 @@
             "php-http/discovery": true
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
