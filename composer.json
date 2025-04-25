@@ -12,7 +12,8 @@
         "ext-redis": "*",
         "laravel/framework": "^v12.0",
         "laravel/sanctum": "^4.0",
-        "laravel/tinker": "^2.10.1",
+        "laravel/tinker": "^2.9",
+        "nikic/php-parser": "^5.3",
         "laravel/octane": "^2.0",
         "openai-php/client": "^0.10.0",
         "predis/predis": "2.0"
